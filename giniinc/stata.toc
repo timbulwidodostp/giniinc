@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p giniinc Measuring inequality from incomplete income and survival data Use survbound And survlsl And survgini (giniinc) With STATA 18
