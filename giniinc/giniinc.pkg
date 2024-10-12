@@ -1,5 +1,17 @@
-d 'DEA': Data envelopment analysis
+d 'giniinc': Measuring inequality from incomplete income and survival data Use survbound And survlsl And survgini (giniinc) With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f fastgini.ado
+f fastgini.hlp
+f giniinc.sthlp
+f loglogistic_leftcensor.ado
+f loglogistic_lefttrunc.ado
+f lognormal_leftcensor.ado
+f lognormal_lefttrunc.ado
+f survbound.ado
+f survbound.sthlp
+f survgini.ado
+f survgini.sthlp
+f survlsl.ado
+f survlsl.sthlp
+f weibull_leftcensor.ado
+f weibull_lefttrunc.ado
