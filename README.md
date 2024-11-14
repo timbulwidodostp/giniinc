@@ -1,6 +1,8 @@
 # giniinc
 Measuring inequality from incomplete income and survival data Use survbound And survlsl And survgini (giniinc) With STATA 18
 
+https://www.youtube.com/watch?v=Z2RC9-uUL-4
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
